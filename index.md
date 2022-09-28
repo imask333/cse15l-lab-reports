@@ -1,1 +1,1 @@
-hello
+*Another day another slay*
