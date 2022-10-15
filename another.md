@@ -1,8 +1,7 @@
-_Smile, you're on camera_
-
+*Installing Visual Studio Code, log in client, runnining commands on client, moving files over SSH, setting an SSH key, and optimizing remote running*
 # Installing VScode 
 
-. I had VSCode before, but I went on the VSCode website and downloaded it.
+. I had VSCode before, but I went on the VSCode website and downloaded it, and the website is https://www.github.com 
 . It took 5 minutes to download
 ![Installing VScode](https://user-images.githubusercontent.com/114331111/193392523-c9a20985-0d73-4997-be19-6d2c68819397.jpg)
 
@@ -10,16 +9,15 @@ _Smile, you're on camera_
 # Remotely connecting
 
 .On the top right of VSCode, I clicked "Command" then "new terminal"
-. Then I followed part 4's instruction, the screenshot doesn't show y/n because my account only connects to the server after the lab and I used the account the TA gave me. 
-![remotely connecting](https://user-images.githubusercontent.com/114331111/193392549-e5051705-0e53-4022-8fc1-fe978f3be8f3.jpg)
+. Then I type cs15lfa22kf@ieng6.ucsd.edu into the terminal to connect to the server. I already changed the key and don't know how to change it to enter password again. 
+![remotely connecting](https://user-images.githubusercontent.com/114331111/195960888-c999966d-000f-4c89-afcf-4bd420e694c2.png)
 
 
 # Trying some commands
 
 . After gettting into the server, I typed in the terminal ls -a, cd, cp, and cat
-.  I don't know what the cp /home/linux/ieng6/cs15lfa22/public/hello.txt ~/ does.
-![Trying some commands](https://user-images.githubusercontent.com/114331111/193387479-d6385039-541e-4d50-bab0-489fce49e39d.jpg)
-
+.I don't know what the cp /home/linux/ieng6/cs15lfa22/public/hello.txt ~/ does.
+![Trying some commands](https://user-images.githubusercontent.com/114331111/195961224-a1a39d05-2354-48db-a7eb-f46c71d6b921.png)
  
 
 I compiled and run WhereAmI using javac and java
