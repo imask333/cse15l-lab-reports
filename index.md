@@ -1,4 +1,4 @@
-*Installing Visual Studio Code, log in client, runnining commands on client, moving files over SSH, setting an SSH key, and optimizing remote running *
+*Installing Visual Studio Code, log in client, runnining commands on client, moving files over SSH, setting an SSH key, and optimizing remote running*
 # Installing VScode 
 
 . I had VSCode before, but I went on the VSCode website and downloaded it, and the website is https://www.github.com 
